@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on [a snow ploughing robot](https://sites.google.com/view/autoplow/home)
 - 🌱 I’m currently learning Automation Engineering at McMaster University
-- 👯 I’m looking to collaborate on outdoor mobile robots navigation,sensor fusion & autonomous driving
-- 🤔 I’m looking for summer 2023 Co-op
+- 👯 I’m looking for friends to collaborate on outdoor mobile robots navigation,sensor fusion & autonomous driving
+- 🤔 I will be joining Citi Bank at 2023, May
 - 💬 Ask me about how to procrastinate
 - 📫 How to reach me: https://www.linkedin.com/in/yuxiang-guan/
 - 😄 Pronouns: He/Him
